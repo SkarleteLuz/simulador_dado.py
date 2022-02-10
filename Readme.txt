@@ -1,0 +1,1 @@
+Exercício de treinamento que objetiva a simulação de um dado, desenvolvido através da linguagem Python.
